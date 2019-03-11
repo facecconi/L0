@@ -1,0 +1,24 @@
+1  git clone https://github.com/IIC2115/Syllabus.git
+    2  cd Desktop
+    3  git clone https://github.com/IIC2115/Syllabus.git
+    4  cd Syllabus
+    5  ls
+    6  git add *
+    7  git commit -m "Se sube el lab0"
+    8  git pull
+    9  cd Desktop
+   10  cd
+   11  cd Desktop
+   12  git clone https://github.com/facecconi/L0.git
+   13  cd L0
+   14  ls
+   15  git add
+   16  git add *
+   17  git commit -m "Lab0"
+   18  git push https://github.com/facecconi/L0.git
+   19  git pull
+   20  History
+   21  doskey
+   22  doskey/History
+   23  /doskey
+   24  history
